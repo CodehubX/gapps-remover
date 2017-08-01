@@ -1,4 +1,4 @@
-## Remove Gapps is a project created 2017 by CHEF-KOCH to remove all Google apps (Gapps)
+## Remove Gapps is a project created 2017 by CHEF-KOCH to remove all Google apps (Gapps). The project is under [MIT license](https://github.com/CHEF-KOCH/Remove-Gapps/blob/master/LICENSE). 
 
 
 ![Remove Gapps Logo](https://raw.githubusercontent.com/CHEF-KOCH/Remove-Gapps/master/anti-google.jpg)
