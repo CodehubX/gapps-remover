@@ -2,6 +2,10 @@
 
 The goal is to switch from Gapps to NanoMod, to remove all Google services (except Coregms.apk and Webview [cause there important]) to get control pack to you!
 
+
+**Please backup or do a full backup via recovery before you install it.**  
+
+
 How does it work?
 =================
 
@@ -12,15 +16,12 @@ How does it work?
 * It's flashable via CWM and TWRP. 
 
 
-What it deletes?
+What will be deleted?
 =================
 * The Script will delete the default Google Launcher.
 * The Script also removes Google Dialer, Google Keyboard, Google Maps, Google Play Store & Google Play Store which means you need to install alternatives before you use this script - or simply install NanoMod.
 * It's highly recommended to wipe dalvik/ART-cache to rid out of unused cache files after flashing the package.
 * The full list is viewable/editable under 'delete.sh'.
-
-
-**Please backup or do a full backup via recovery before you install it.** 
 
 
 Research and alternatives
