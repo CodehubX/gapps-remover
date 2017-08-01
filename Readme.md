@@ -23,10 +23,17 @@ How does it work?
 
 What will be deleted?
 =================
+
 * The Script will delete the default Google Launcher.
 * The Script also removes Google Dialer, Google Keyboard, Google Maps, Google Play Store & Google Play Store which means you need to install alternatives before you use this script - or simply install NanoMod.
 * It's highly recommended to wipe dalvik/ART-cache to rid out of unused cache files after flashing the package.
 * The full list is viewable/editable under 'delete.sh'.
+
+
+Where I can find the latest release?
+=================
+
+* It's under the [release page](https://github.com/CHEF-KOCH/Remove-Gapps/releases).
 
 
 Research and alternatives
