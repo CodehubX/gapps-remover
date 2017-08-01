@@ -8,7 +8,7 @@
 The goal is to switch from Gapps to e.g. NanoMod, to remove all Google services (except CoreGms.apk and Webview [cause they're important]) to get control pack to you!
 
 
-**Please backup or do a full backup via recovery before you install it.**  
+**Please backup all Google apps or a full backup via recovery before you install it.**  
 
 
 How does it work?
@@ -37,5 +37,6 @@ Where I can find the latest release?
 
 
 Research and alternatives
-* https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928
-* https://forum.xda-developers.com/android/apps-games/app-microg-gmscore-floss-play-services-t3217616
+* [NanoMod project](https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928)
+* [MicroG Project](https://forum.xda-developers.com/android/apps-games/app-microg-gmscore-floss-play-services-t3217616)
+* [MicroG Implementation Status](https://github.com/microg/android_packages_apps_GmsCore/wiki/Implementation-Status)
