@@ -1,6 +1,11 @@
 ## Remove Gapps is a project created 2017 by CHEF-KOCH to remove all Google apps (Gapps)
 
-The goal is to switch from Gapps to NanoMod, to remove all Google services (except Coregms.apk and Webview [cause there important]) to get control pack to you!
+
+![Remove Gapps Logo](https://raw.githubusercontent.com/CHEF-KOCH/Remove-Gapps/master/anti-google.jpg)
+
+
+
+The goal is to switch from Gapps to e.g. NanoMod, to remove all Google services (except CoreGms.apk and Webview [cause they're important]) to get control pack to you!
 
 
 **Please backup or do a full backup via recovery before you install it.**  
