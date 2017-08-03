@@ -1,5 +1,13 @@
-### Remove Gapps is a project created 2017 by CHEF-KOCH to remove all Google apps (Gapps). The project is under [MIT license](https://github.com/CHEF-KOCH/Remove-Gapps/blob/master/LICENSE). 
+### Remove Gapps is a project created 2017 by CHEF-KOCH to remove all Google apps (Gapps).
 
+
+[![GitHub release](https://img.shields.io/github/release/CHEF-KOCH/Remove-Gapps.svg)](https://github.com/CHEF-KOCH/Remove-Gapps/releases/latest)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/CHEF-KOCH/Remove-Gapps/master/LICENSE)
+[![Build status](https://ci.appveyor.com/api/projects/status/o6kwuifjotbo6t5a/branch/master?svg=true)](https://ci.appveyor.com/project/CHEF-KOCH/Remove-Gapps/branch/master)
+
+[![GitHub issues](https://img.shields.io/github/issues/CHEF-KOCH/Remove-Gapps.svg?style=plastic)](https://github.com/CHEF-KOCH/Remove-Gapps/issues)
+[![Stories in Ready](https://badge.waffle.io/CHEF-KOCH/Remove-Gapps.png?label=ready&title=Ready)](https://waffle.io/CHEF-KOCH/Remove-Gapps)
+[![Stories in Progress](https://badge.waffle.io/CHEF-KOCH/Remove-Gapps.png?label=in%20progress&title=In%20Progress)](https://waffle.io/CHEF-KOCH/Remove-Gapps)
 
 ![Remove Gapps Logo](https://raw.githubusercontent.com/CHEF-KOCH/Remove-Gapps/master/anti-google.jpg)
 
