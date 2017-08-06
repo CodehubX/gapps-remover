@@ -12,12 +12,15 @@ rm -rf /system/app/AndroidForWork.odex
 rm -rf /system/app/BackupRestoreConfirmation
 rm -rf /system/app/BackupRestoreConfirmation.apk
 rm -rf /system/app/BackupRestoreConfirmation.odex
+rm -rf /system/app/BasicDreams/BasicDreams.apk
 rm -rf /system/app/Books
 rm -rf /system/app/Books.apk
 rm -rf /system/app/Books.odex
 rm -rf /system/app/BooksPhone
 rm -rf /system/app/BooksPhone.apk
 rm -rf /system/app/BooksPhone.odex
+rm -rf /system/app/BookmarkProvider/BookmarkProvider.apk
+rm -rf /system/app/BookmarkProvider.odex
 rm -rf /system/app/BrowserProviderProxy
 rm -rf /system/app/BrowserProviderProxy.apk
 rm -rf /system/app/BrowserProviderProxy.odex
@@ -84,6 +87,9 @@ rm -rf /system/app/EditorsSheets.odex
 rm -rf /system/app/EditorsSlides
 rm -rf /system/app/EditorsSlides.apk
 rm -rf /system/app/EditorsSlides.odex
+rm -rf /system/app/Email/Email.apk
+rm -rf /system/app/ExactCalculator.apk
+rm -rf /system/app/Exchange2/Exchange2.apk
 rm -rf /system/app/ExchangeServices
 rm -rf /system/app/ExchangeServices.apk
 rm -rf /system/app/ExchangeServices.odex
@@ -231,6 +237,7 @@ rm -rf /system/app/Hangouts.odex
 rm -rf /system/app/HangoutsDialer
 rm -rf /system/app/HangoutsDialer.apk
 rm -rf /system/app/HangoutsDialer.odex
+rm -rf /system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk
 rm -rf /system/app/HotwordEnrollment
 rm -rf /system/app/HotwordEnrollment.apk
 rm -rf /system/app/HotwordEnrollment.odex
@@ -240,6 +247,7 @@ rm -rf /system/app/iWnnIME.odex
 rm -rf /system/app/iWnnIME_Kbd_White
 rm -rf /system/app/iWnnIME_Kbd_White.apk
 rm -rf /system/app/iWnnIME_Kbd_White.odex
+rm -rf /system/app/Jelly/Jelly.apk
 rm -rf /system/app/Keep
 rm -rf /system/app/Keep.apk
 rm -rf /system/app/Keep.odex
@@ -288,6 +296,7 @@ rm -rf /system/app/NexusLauncherIcons.odex
 rm -rf /system/app/NexusLauncherPrebuilt
 rm -rf /system/app/NexusLauncherPrebuilt.apk
 rm -rf /system/app/NexusLauncherPrebuilt.odex
+rm -rf /system/app/NoiseField/NoiseField.apk
 rm -rf /system/app/OccamQuickOffice
 rm -rf /system/app/OccamQuickOffice.apk
 rm -rf /system/app/OccamQuickOffice.odex
@@ -297,12 +306,14 @@ rm -rf /system/app/OneTimeInitializer.odex
 rm -rf /system/app/PartnerBookmarksProvider
 rm -rf /system/app/PartnerBookmarksProvider.apk
 rm -rf /system/app/PartnerBookmarksProvider.odex
+rm -rf /system/app/PhaseBeam/PhaseBeam.apk
 rm -rf /system/app/Phonesky
 rm -rf /system/app/Phonesky.apk
 rm -rf /system/app/Phonesky.odex
 rm -rf /system/app/Photos
 rm -rf /system/app/Photos.apk
 rm -rf /system/app/Photos.odex
+rm -rf /system/app/PhotoPhase/PhotoPhase.apk
 rm -rf /system/app/PlayAutoInstallConfig
 rm -rf /system/app/PlayAutoInstallConfig.apk
 rm -rf /system/app/PlayAutoInstallConfig.odex
@@ -348,6 +359,7 @@ rm -rf /system/app/QuickOffice.odex
 rm -rf /system/app/QuickSearchBox
 rm -rf /system/app/QuickSearchBox.apk
 rm -rf /system/app/QuickSearchBox.odex
+rm -rf /system/app/ResurrectionStats/ResurrectionStats.apk
 rm -rf /system/app/SetupWizard
 rm -rf /system/app/SetupWizard.apk
 rm -rf /system/app/SetupWizard.odex
@@ -894,6 +906,7 @@ rm -rf /system/priv-app/MediaUploader.odex
 rm -rf /system/priv-app/Music2
 rm -rf /system/priv-app/Music2.apk
 rm -rf /system/priv-app/Music2.odex
+rm -rf /system/priv-app/MusicFX/MusicFX.apk
 rm -rf /system/priv-app/NetworkLocation
 rm -rf /system/priv-app/NetworkLocation.apk
 rm -rf /system/priv-app/NetworkLocation.odex
@@ -909,6 +922,7 @@ rm -rf /system/priv-app/NexusLauncherPrebuilt.odex
 rm -rf /system/priv-app/OccamQuickOffice
 rm -rf /system/priv-app/OccamQuickOffice.apk
 rm -rf /system/priv-app/OccamQuickOffice.odex
+rm -rf /system/priv-app/OmniStyle.apk
 rm -rf /system/priv-app/OneTimeInitializer
 rm -rf /system/priv-app/OneTimeInitializer.apk
 rm -rf /system/priv-app/OneTimeInitializer.odex
@@ -975,6 +989,7 @@ rm -rf /system/priv-app/StorageManagerGoogle.odex
 rm -rf /system/priv-app/Street
 rm -rf /system/priv-app/Street.apk
 rm -rf /system/priv-app/Street.odex
+rm -rf /system/priv-app/Tag/Tag.apk
 rm -rf /system/priv-app/TagGoogle
 rm -rf /system/priv-app/TagGoogle.apk
 rm -rf /system/priv-app/TagGoogle.odex
