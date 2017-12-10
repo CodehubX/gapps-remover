@@ -1,13 +1,9 @@
 ### Remove Gapps is a project created 2017 by CHEF-KOCH to remove all Google apps (Gapps).
 
 
-[![GitHub release](https://img.shields.io/github/release/CHEF-KOCH/Remove-Gapps.svg)](https://github.com/CHEF-KOCH/Remove-Gapps/releases/latest)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/CHEF-KOCH/Remove-Gapps/master/LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/o6kwuifjotbo6t5a/branch/master?svg=true)](https://ci.appveyor.com/project/CHEF-KOCH/Remove-Gapps/branch/master)
-
-[![GitHub issues](https://img.shields.io/github/issues/CHEF-KOCH/Remove-Gapps.svg?style=plastic)](https://github.com/CHEF-KOCH/Remove-Gapps/issues)
-[![Stories in Ready](https://badge.waffle.io/CHEF-KOCH/Remove-Gapps.png?label=ready&title=Ready)](https://waffle.io/CHEF-KOCH/Remove-Gapps)
-[![Stories in Progress](https://badge.waffle.io/CHEF-KOCH/Remove-Gapps.png?label=in%20progress&title=In%20Progress)](https://waffle.io/CHEF-KOCH/Remove-Gapps)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
 ![Remove Gapps Logo](https://raw.githubusercontent.com/CHEF-KOCH/Remove-Gapps/master/anti-google.jpg)
 
