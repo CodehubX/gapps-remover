@@ -442,7 +442,6 @@ rm -rf /system/lib/lib_dic_*
 rm -rf /system/lib/libAppDataSearch.so
 rm -rf /system/lib/libbitmap_parcel.so
 rm -rf /system/lib/libchrome*
-rm -rf /system/lib/libchromeview.so
 rm -rf /system/lib/libconscrypt_gmscore_jni.so
 rm -rf /system/lib/libcrashreporter.so
 rm -rf /system/lib/libdocscanner*
@@ -503,8 +502,6 @@ rm -rf /system/lib/libnjkaomoji.so
 rm -rf /system/lib/libnjname.so
 rm -rf /system/lib/libnjtan.so
 rm -rf /system/lib/libnjubase*
-rm -rf /system/lib/libnjubaseidx1.so
-rm -rf /system/lib/libnjubaseidx2.so
 rm -rf /system/lib/libocrclient.so
 rm -rf /system/lib/libpatts_engine_*
 rm -rf /system/lib/libphotoeditor_native.so
@@ -541,7 +538,6 @@ rm -rf /system/lib64/lib_dic_*
 rm -rf /system/lib64/libAppDataSearch.so
 rm -rf /system/lib64/libbitmap_parcel.so
 rm -rf /system/lib64/libchrome*
-rm -rf /system/lib64/libchromeview.so
 rm -rf /system/lib64/libconscrypt_gmscore_jni.so
 rm -rf /system/lib64/libcrashreporter.so
 rm -rf /system/lib64/libdocscanner*
@@ -602,8 +598,6 @@ rm -rf /system/lib64/libnjkaomoji.so
 rm -rf /system/lib64/libnjname.so
 rm -rf /system/lib64/libnjtan.so
 rm -rf /system/lib64/libnjubase*
-rm -rf /system/lib64/libnjubaseidx1.so
-rm -rf /system/lib64/libnjubaseidx2.so
 rm -rf /system/lib64/libocrclient.so
 rm -rf /system/lib64/libpatts_engine_*
 rm -rf /system/lib64/libphotoeditor_native.so
